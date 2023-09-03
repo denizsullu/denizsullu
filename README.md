@@ -1,6 +1,6 @@
 # Hi 👋, WELCOME MY GitHub :)
 
-### I'm diving deep into modern development techniques, exploring the vast world of the Spring framework, RDBMS, Microservices, and NoSQL databases. 
+### I'm diving deep into modern development techniques, exploring the vast world of the Spring framework, Microservices.
 
 
 ### Connect with me:</h3>
